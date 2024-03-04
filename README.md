@@ -1,4 +1,4 @@
-**GitHub Repository: SQL**ski-resorts
+**GitHub Repository: SQL-**ski-resorts
 
 **Description:** In this repository you can find SQL query analysis of resorts and spots recommended for different advancement levels.
 
